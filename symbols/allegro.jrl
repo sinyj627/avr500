@@ -1,0 +1,85 @@
+\t (00:25:53) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:25:53)     Journal start - Thu Jul 18 14:16:32 2019
+\t (00:25:53)         Host=DESKTOP-0CCQGI6 User=user Pid=7100 CPUs=4
+\t (00:25:53) CmdLine= allegro.exe -p .
+\t (00:25:53) 
+\t (00:25:53) Starting new design...
+\i (00:25:53) trapsize 1308
+\i (00:25:53) trapsize 1308
+\i (00:25:53) generaledit 
+\i (00:26:17) board outline 
+\i (00:26:18) setwindow form.fpbdoutline
+\i (00:26:18) FORM fpbdoutline fpboplacerect YES 
+\i (00:26:20) FORM fpbdoutline fpboclearance 3 
+\i (00:26:23) FORM fpbdoutline fpboplacewdt 110 
+\i (00:26:26) FORM fpbdoutline fpboplacehgt 45 
+\i (00:26:26) setwindow pcb
+\i (00:26:26) pick grid -38.792 -71.494
+\t (00:26:26) last pick:  -38.100 -71.120
+\i (00:26:27) setwindow form.fpbdoutline
+\i (00:26:27) FORM fpbdoutline done  
+\i (00:26:27) setwindow pcb
+\i (00:26:27) generaledit 
+\i (00:26:28) zoom in 1 
+\i (00:26:28) setwindow pcb
+\i (00:26:28) zoom in 4.097 -78.294
+\i (00:26:28) trapsize 654
+\i (00:26:28) zoom in 1 
+\i (00:26:28) setwindow pcb
+\i (00:26:28) zoom in 3.705 -78.686
+\i (00:26:28) trapsize 327
+\i (00:26:29) zoom out 1 
+\i (00:26:29) setwindow pcb
+\i (00:26:29) zoom out 3.901 -74.894
+\i (00:26:29) trapsize 654
+\i (00:26:29) zoom out 1 
+\i (00:26:29) setwindow pcb
+\i (00:26:29) zoom out 4.686 -74.893
+\i (00:26:29) trapsize 1308
+\i (00:26:30) quickplace 
+\i (00:26:32) setwindow form.quickplc
+\i (00:26:32) FORM quickplc place  
+\i (00:26:32) FORM quickplc place  
+\i (00:26:33) FORM quickplc place  
+\i (00:26:33) FORM quickplc place  
+\i (00:26:33) FORM quickplc place  
+\i (00:26:33) FORM quickplc place  
+\i (00:26:33) FORM quickplc place  
+\i (00:26:33) FORM quickplc place  
+\i (00:26:36) FORM quickplc cancel  
+\i (00:26:36) setwindow pcb
+\i (00:26:36) generaledit 
+\i (00:41:39) open 
+\e (00:41:39) Do you want to save the changes you made to avrusb500.brd?
+\i (00:41:40) fillin no 
+\i (00:41:53) fillin "C:\Users\user\Desktop\work\avrusb500\allegro\AVRUSB500.brd"
+\i (00:41:53) cd "C:\Users\user\Desktop\work\avrusb500\allegro"
+\t (00:41:53) Opening existing design...
+\i (00:41:55) fillin no 
+\e (00:41:55) Failed to open design since it is locked - C:/Users/user/Desktop/work/avrusb500/allegro/AVRUSB500.brd
+\t (00:41:55) Starting new design...
+\i (00:41:55) trapsize 2689
+\i (00:41:56) fillin "menu_cancel"
+\i (00:41:56) generaledit 
+\i (00:41:57) zoom out 1 
+\i (00:41:57) setwindow pcb
+\i (00:41:57) zoom out 423.196 122.603
+\i (00:41:57) trapsize 2689
+\i (00:41:57) zoom out 1 
+\i (00:41:57) setwindow pcb
+\i (00:41:57) zoom out 423.196 122.603
+\i (00:41:57) trapsize 2689
+\i (00:41:57) zoom in 1 
+\i (00:41:57) setwindow pcb
+\i (00:41:57) zoom in 451.696 123.679
+\i (00:41:57) trapsize 1344
+\i (00:41:57) zoom in 1 
+\i (00:41:57) setwindow pcb
+\i (00:41:57) zoom in 363.207 123.679
+\i (00:41:57) trapsize 672
+\i (00:41:57) zoom in 1 
+\i (00:41:57) setwindow pcb
+\i (00:41:57) zoom in 363.207 123.680
+\i (00:41:57) trapsize 336
+\i (00:42:00) exit 
+\t (00:42:00)     Journal end - Thu Jul 18 14:32:39 2019

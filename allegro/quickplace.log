@@ -1,0 +1,53 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : AVRUSB500.brd                                 )
+(    Software Version : 16.6S034                                      )
+(    Date/Time        : Thu Jul 18 17:00:16 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  IC1 / ATMEGA8-DIL28_1_QUAD80M32WG900_ / QUAD80M32WG900 at (353.4412 231.8932)
+         Placed symbol:  U1 / FT232BM_2_QUAD80M32WG900_FT232B / QUAD80M32WG900 at (364.6804 231.8932)
+         Placed symbol:  J4 / CON5_BLKCON100VHTM1SQSW1005_FIR / BLKCON100VHTM1SQSW1005 at (374.7006 231.9952)
+         Placed symbol:  J2 / CON4_7_MICRO_USB_USBA_ / MICRO_USB at (392.2878 231.5732)
+         Placed symbol:  J1 / CON5_BLKCON100VHTM1SQSW1005_BBP / BLKCON100VHTM1SQSW1005 at (399.7150 231.9952)
+         Placed symbol:  J3 / CON5_BLKCON100VHTM1SQSW1005_AVR / BLKCON100VHTM1SQSW1005 at (413.0762 231.9952)
+         Placed symbol:  C5 / CAPACITOR NON-POL_CPCYL1D225L_3 / CPCYL1D225LS100031 at (426.6274 233.5822)
+         Placed symbol:  C10 / CAPACITOR NON-POL_CPCYL1D225L_1 / CPCYL1D225LS100031 at (432.7486 233.5822)
+         Placed symbol:  C7 / CAPACITOR NON-POL_CPCYL1D225L_3 / CPCYL1D225LS100031 at (438.8698 233.5822)
+         Placed symbol:  C4 / CAPACITOR NON-POL_CPCYL1D225LS1 / CPCYL1D225LS100031 at (444.9910 233.5822)
+         Placed symbol:  D1 / LED_CYLD250LS125031_LED_ / CYLD250LS125031 at (451.1122 233.9002)
+         Placed symbol:  C8 / CAPACITOR NON-POL_CPCYL1D225L_3 / CPCYL1D225LS100031 at (352.4122 244.8214)
+         Placed symbol:  C3 / CAPACITOR NON-POL_CPCYL1D225L_2 / CPCYL1D225LS100031 at (358.5334 244.8214)
+         Placed symbol:  C6 / CAPACITOR POL_CPCYL1D225LS10003 / CPCYL1D225LS100031 at (364.6546 244.8214)
+         Placed symbol:  C2 / CAPACITOR NON-POL_CPCYL1D225L_2 / CPCYL1D225LS100031 at (370.7758 244.8214)
+         Placed symbol:  C9 / CAPACITOR NON-POL_CPCYL1D225L_3 / CPCYL1D225LS100031 at (376.8970 244.8214)
+         Placed symbol:  R1 / R_AX400X100031_470_SMDRES / AX400X100031 at (382.3702 243.2344)
+         Placed symbol:  C1 / CAPACITOR NON-POL_CPCYL1D225LS1 / CPCYL1D225LS100031 at (395.4634 244.8214)
+         Placed symbol:  R11 / R_AX400X100031_1K_SMDRES / AX400X100031 at (400.9366 243.2344)
+         Placed symbol:  R13 / R_AX400X100031_1K_SMDRES / AX400X100031 at (413.3818 243.2344)
+         Placed symbol:  R12 / R_AX400X100031_220_SMDRES / AX400X100031 at (425.8270 243.2344)
+         Placed symbol:  R14 / R_AX400X100031_220_SMDRES / AX400X100031 at (438.2722 243.2344)
+         Placed symbol:  R15 / R_AX400X100031_220_SMDRES / AX400X100031 at (351.7642 249.3556)
+         Placed symbol:  R2 / R_AX400X100031_220_SMDRES / AX400X100031 at (364.2094 249.3556)
+         Placed symbol:  R3 / R_AX400X100031_220_SMDRES / AX400X100031 at (376.6546 249.3556)
+         Placed symbol:  R4 / R_AX400X100031_220_SMDRES / AX400X100031 at (389.0998 249.3556)
+         Placed symbol:  R5 / R_AX400X100031_27_SMDRES / AX400X100031 at (401.5450 249.3556)
+         Placed symbol:  R6 / R_AX400X100031_27_SMDRES / AX400X100031 at (413.9902 249.3556)
+         Placed symbol:  R7 / R_AX400X100031_1.5K_SMDRES / AX400X100031 at (426.4354 249.3556)
+         Placed symbol:  R8 / R_AX400X100031_2.2_SMDRES / AX400X100031 at (438.8806 249.3556)
+         Placed symbol:  R9 / R_AX400X100031_10K_SMDRES / AX400X100031 at (351.7642 252.3028)
+         Placed symbol:  R10 / R_AX400X100031_470_SMDRES / AX400X100031 at (364.2094 252.3028)
+         Placed symbol:  Y1 / ZTA_RAD450X200LS300031_3.6864MH / RAD450X200LS300031 at (377.6206 253.5728)
+         Placed symbol:  Y2 / ZTA_RAD450X200LS300031_6MHZ_ / RAD450X200LS300031 at (389.4578 253.5728)
+
+
+Placed 34 of 34 applicable (34 total) symbols.
+
+-----------------------------------------------------------------------
+

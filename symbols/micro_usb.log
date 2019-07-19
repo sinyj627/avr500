@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : micro_usb.dra                                 )
+(    Software Version : 16.6S034                                      )
+(    Date/Time        : Thu Jul 18 13:40:11 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/user/Desktop/work/avrusb500/symbols
+    Name      = micro_usb.psm
+    User      = user
+    Machine   = DESKTOP-0CCQGI6
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
