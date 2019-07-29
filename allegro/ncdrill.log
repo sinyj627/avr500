@@ -2,9 +2,9 @@
 (                                                                     )
 (    NC DRILL Log                                                     )
 (                                                                     )
-(    Drawing          : AVRUSB500_1.brd                               )
-(    Software Version : 16.6S034                                      )
-(    Date/Time        : Fri Jul 19 12:38:37 2019                      )
+(    Drawing          : AVRUSB500_2.brd                               )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Mon Jul 29 16:02:00 2019                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -16,7 +16,7 @@
  -------------
 
  FORMAT   		5.5
- MACHINE-OFFSET		x:0.000000	y:0.000000
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (mm)
  FEEDRATE		1
  COORDINATES		ABSOLUTE
  OUTPUT-UNITS		METRIC
@@ -43,16 +43,16 @@
 
 
 
-     'AVRUSB500_1-1-2.drl' created for holes connecting TOP and BOTTOM
+     'AVRUSB500_2-1-2.drl' created for holes connecting TOP and BOTTOM
      -----------------------------------------------------------------
 
            Num     Size      +/- Tolerance     Plating   Quantity
 
-            1.   0.3300    0.0000/  0.0000      PLATED         55
-            2.   0.7869    0.0000/  0.0000      PLATED         56
+            1.   0.3300    0.0000/  0.0000      PLATED         46
+            2.   0.7869    0.0000/  0.0000      PLATED         12
             3.   1.0671    0.0000/  0.0000      PLATED         15
 
-     ---- Total holes:                                        126
+     ---- Total holes:                                         73
 
-     ---- Total head travel:              5.49 feet (1.67 meters)
+     ---- Total head travel:              2.72 feet (0.83 meters)
 

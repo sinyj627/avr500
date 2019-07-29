@@ -1,0 +1,92 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : AVRUSB500_2.brd                               )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Mon Jul 29 15:33:56 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'C:\USERS\USER\DESKTOP\SAMPLES\SAMPLES\AVRUSB500_R02\AVRUSB500_R02\ALLEGRO\allegro'
+Design Directory:            'C:/Users/user/Desktop/work/avrusb500/allegro'
+Old design name:             'C:/Users/user/Desktop/work/avrusb500/allegro/AVRUSB500_2.brd'
+New design name:             'C:/Users/user/Desktop/work/avrusb500/allegro/AVRUSB500_2.brd'
+
+CmdLine: netrev.exe -y 1 -i C:\USERS\USER\DESKTOP\SAMPLES\SAMPLES\AVRUSB500_R02\AVRUSB500_R02\ALLEGRO\allegro C:\Users\user\Desktop\work\avrusb500\allegro\AVRUSB500_2.brd C:\Users\user\Desktop\work\avrusb500\allegro\AVRUSB500_2.brd
+
+------ Preparing to read pst files ------
+
+Starting to read C:/USERS/USER/DESKTOP/SAMPLES/SAMPLES/AVRUSB500_R02/AVRUSB500_R02/ALLEGRO/allegro/pstchip.dat 
+   Finished reading C:/USERS/USER/DESKTOP/SAMPLES/SAMPLES/AVRUSB500_R02/AVRUSB500_R02/ALLEGRO/allegro/pstchip.dat (00:00:00.04)
+Starting to read C:/USERS/USER/DESKTOP/SAMPLES/SAMPLES/AVRUSB500_R02/AVRUSB500_R02/ALLEGRO/allegro/pstxprt.dat 
+   Finished reading C:/USERS/USER/DESKTOP/SAMPLES/SAMPLES/AVRUSB500_R02/AVRUSB500_R02/ALLEGRO/allegro/pstxprt.dat (00:00:00.00)
+Starting to read C:/USERS/USER/DESKTOP/SAMPLES/SAMPLES/AVRUSB500_R02/AVRUSB500_R02/ALLEGRO/allegro/pstxnet.dat 
+   Finished reading C:/USERS/USER/DESKTOP/SAMPLES/SAMPLES/AVRUSB500_R02/AVRUSB500_R02/ALLEGRO/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_17.2/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+           C:/Users/user/Desktop/work/pcb_lib/psm/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+           C:/Users/user/Desktop/work/pcb_lib/pad/ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Jul 29 15:33:56 2019
+   DESIGN NAME : 'AVRUSB500'
+   PACKAGING ON Mar  2 2016 00:37:24
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:44
+elapsed time  0:00:00
+

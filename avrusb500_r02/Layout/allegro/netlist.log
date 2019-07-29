@@ -1,0 +1,39 @@
+{ Using PSTWRITER 16.6.0 d001Jul-18-2019 at 14:31:16 }
+
+#1 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance C2: SCHEMATIC1, PAGE1 (111.76, 88.90) .
+#2 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance R14: SCHEMATIC1, PAGE1 (152.40, 154.94) .
+#3 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance R1: SCHEMATIC1, PAGE1 (81.28, 93.98) .
+#4 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance C3: SCHEMATIC1, PAGE1 (127.00, 88.90) .
+#5 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance R15: SCHEMATIC1, PAGE1 (220.98, 53.34) .
+#6 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance R2: SCHEMATIC1, PAGE1 (152.40, 137.16) .
+#7 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance C4: SCHEMATIC1, PAGE1 (76.20, 162.56) .
+#8 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance R3: SCHEMATIC1, PAGE1 (152.40, 142.24) .
+#9 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance C5: SCHEMATIC1, PAGE1 (35.56, 109.22) .
+#10 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance R4: SCHEMATIC1, PAGE1 (152.40, 149.86) .
+#11 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance C6: SCHEMATIC1, PAGE1 (20.32, 106.68) .
+#12 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance IC1: SCHEMATIC1, PAGE1 (139.70, 17.78) .
+#13 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance C7: SCHEMATIC1, PAGE1 (99.06, 33.02) .
+#14 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance R5: SCHEMATIC1, PAGE1 (48.26, 154.94) .
+#15 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance C8: SCHEMATIC1, PAGE1 (99.06, 48.26) .
+#16 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance R6: SCHEMATIC1, PAGE1 (48.26, 147.32) .
+#17 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance R7: SCHEMATIC1, PAGE1 (71.12, 144.78) .
+#18 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance C9: SCHEMATIC1, PAGE1 (50.80, 109.22) .
+#19 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance R8: SCHEMATIC1, PAGE1 (48.26, 167.64) .
+#20 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance R9: SCHEMATIC1, PAGE1 (101.60, 17.78) .
+#21 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance J1: SCHEMATIC1, PAGE1 (195.58, 139.70) .
+#22 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance J2: SCHEMATIC1, PAGE1 (17.78, 147.32) .
+#23 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance J3: SCHEMATIC1, PAGE1 (264.16, 38.10) .
+#24 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance Y1: SCHEMATIC1, PAGE1 (106.68, 40.64) .
+#25 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance Y2: SCHEMATIC1, PAGE1 (119.38, 96.52) .
+#26 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance J4: SCHEMATIC1, PAGE1 (236.22, 68.58) .
+#27 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance R10: SCHEMATIC1, PAGE1 (210.82, 30.48) .
+#28 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance R11: SCHEMATIC1, PAGE1 (220.98, 35.56) .
+#29 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance R12: SCHEMATIC1, PAGE1 (220.98, 40.64) .
+#30 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance D1: SCHEMATIC1, PAGE1 (187.96, 30.48) .
+#31 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance C10: SCHEMATIC1, PAGE1 (162.56, 129.54) .
+#32 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance U1: SCHEMATIC1, PAGE1 (93.98, 127.00) .
+#33 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance C1: SCHEMATIC1, PAGE1 (99.06, 93.98) .
+#34 ERROR(ORCAP-36071): Illegal character "Dot(.)" found in "PCB Footprint" property for component instance R13: SCHEMATIC1, PAGE1 (220.98, 48.26) .
+#35 INFO(ORCAP-36107):  PCB Editor does not support Dots(.), Forward Slash(/) and White space in footprint names. The supported characters include Alphabets, Numerics, Underscore(_) and Hyphen(-).
+
+#36 ERROR(ORCAP-36018): Aborting Netlisting... Please correct the above errors and retry.

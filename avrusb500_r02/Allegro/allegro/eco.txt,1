@@ -1,0 +1,140 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:/Users/user/Desktop/work/avrusb500/allegro/AVRUSB500_2.brd                |
+|                                                    Mon Jul 29 14:50:44 2019  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  +5V          pins ADDED TO this existing net (pins not previously on any net)
+                                 J5.4                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D+           pins ADDED TO this existing net (pins not previously on any net)
+                                 J5.2                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D-           pins ADDED TO this existing net (pins not previously on any net)
+                                 J5.3                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this existing net (pins not previously on any net)
+                                 J5.1                           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:/Users/user/Desktop/work/avrusb500/allegro/AVRUSB500_2.brd                |
+|                                                    Mon Jul 29 14:50:44 2019  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ CAPACITOR NON-POL_CPCYL1D225LS1
+ CAPACITOR NON-POL_CPCYL1D225L_1
+ CAPACITOR NON-POL_CPCYL1D225L_2
+ CAPACITOR NON-POL_CPCYL1D225L_4
+ R_AX400X100031_1.5K_SML2015
+ R_AX400X100031_10K_SML2015
+ R_AX400X100031_1K_SML2015
+ R_AX400X100031_2.2_SML2015
+ R_AX400X100031_220_SML2015
+ R_AX400X100031_27_SML2015
+ R_AX400X100031_470_SML2015
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:/Users/user/Desktop/work/avrusb500/allegro/AVRUSB500_2.brd                |
+|                                                    Mon Jul 29 14:50:44 2019  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J2                  CON4_7_MICRO_USB_USBA_                
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:/Users/user/Desktop/work/avrusb500/allegro/AVRUSB500_2.brd                |
+|                                                    Mon Jul 29 14:50:44 2019  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J5                  CON4_7_MICRO_USB_USBA_ 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:/Users/user/Desktop/work/avrusb500/allegro/AVRUSB500_2.brd                |
+|                                                    Mon Jul 29 14:50:44 2019  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAPACITOR NON-POL_CPCYL1D225LS1 382.270 224.155 CAPACITOR NON-POL_CPCYL1D225LS1
+ C2                  CAPACITOR NON-POL_CPCYL1D225L_2 386.715 224.155 CAPACITOR NON-POL_CPCYL1D225L_2
+ C3                  CAPACITOR NON-POL_CPCYL1D225L_2 356.870 223.520 CAPACITOR NON-POL_CPCYL1D225L_2
+ C4                  CAPACITOR NON-POL_CPCYL1D225LS1 375.285 191.135 CAPACITOR NON-POL_CPCYL1D225LS1
+ C7                  CAPACITOR NON-POL_CPCYL1D225L_4 415.290 220.980 CAPACITOR NON-POL_CPCYL1D225L_3
+ C8                  CAPACITOR NON-POL_CPCYL1D225L_4 410.845 201.930 CAPACITOR NON-POL_CPCYL1D225L_3
+ C10                 CAPACITOR NON-POL_CPCYL1D225L_1 367.665 223.520 CAPACITOR NON-POL_CPCYL1D225L_1
+ R1                  R_AX400X100031_470_SML2015 371.475 215.900 R_AX400X100031_470_SMDRES
+ R2                  R_AX400X100031_220_SML2015 397.510 216.535 R_AX400X100031_220_SMDRES
+ R3                  R_AX400X100031_220_SML2015 397.510 209.550 R_AX400X100031_220_SMDRES
+ R4                  R_AX400X100031_220_SML2015 397.510 204.470 R_AX400X100031_220_SMDRES
+ R5                  R_AX400X100031_27_SML2015 367.030 199.390 R_AX400X100031_27_SMDRES
+ R6                  R_AX400X100031_27_SML2015 367.030 204.470 R_AX400X100031_27_SMDRES
+ R7                  R_AX400X100031_1.5K_SML2015 367.030 210.185 R_AX400X100031_1.5K_SMDRES
+ R8                  R_AX400X100031_2.2_SML2015 367.030 194.310 R_AX400X100031_2.2_SMDRES
+ R9                  R_AX400X100031_10K_SML2015 441.960 191.135 R_AX400X100031_10K_SMDRES
+ R10                 R_AX400X100031_470_SML2015 446.405 217.805 R_AX400X100031_470_SMDRES
+ R11                 R_AX400X100031_1K_SML2015 441.960 196.215 R_AX400X100031_1K_SMDRES
+ R12                 R_AX400X100031_220_SML2015 441.960 201.295 R_AX400X100031_220_SMDRES
+ R13                 R_AX400X100031_1K_SML2015 441.960 206.375 R_AX400X100031_1K_SMDRES
+ R14                 R_AX400X100031_220_SML2015 397.510 199.390 R_AX400X100031_220_SMDRES
+ R15                 R_AX400X100031_220_SML2015 441.960 212.090 R_AX400X100031_220_SMDRES
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:/Users/user/Desktop/work/avrusb500/allegro/AVRUSB500_2.brd                |
+|                                                    Mon Jul 29 14:50:44 2019  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C7.2           415.290 220.980 PRIM_FILE      .\pstchip.dat
+ C8.2           410.845 201.930 PRIM_FILE      .\pstchip.dat
+ J5.5                           PRIM_FILE      .\pstchip.dat
+ R1.2           371.475 215.900 PRIM_FILE      .\pstchip.dat
+ R2.2           397.510 216.535 PRIM_FILE      .\pstchip.dat
+ R3.2           397.510 209.550 PRIM_FILE      .\pstchip.dat
+ R4.2           397.510 204.470 PRIM_FILE      .\pstchip.dat
+ R5.2           367.030 199.390 PRIM_FILE      .\pstchip.dat
+ R6.2           367.030 204.470 PRIM_FILE      .\pstchip.dat
+ R7.2           367.030 210.185 PRIM_FILE      .\pstchip.dat
+ R8.2           367.030 194.310 PRIM_FILE      .\pstchip.dat
+ R9.2           441.960 191.135 PRIM_FILE      .\pstchip.dat
+ R10.2          446.405 217.805 PRIM_FILE      .\pstchip.dat
+ R11.2          441.960 196.215 PRIM_FILE      .\pstchip.dat
+ R12.2          441.960 201.295 PRIM_FILE      .\pstchip.dat
+ R13.2          441.960 206.375 PRIM_FILE      .\pstchip.dat
+ R14.2          397.510 199.390 PRIM_FILE      .\pstchip.dat
+ R15.2          441.960 212.090 PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Nets changed          :       4                                        |
+|       Comp definitions added:      11                                        |
+|       Components added      :       1                                        |
+|       Components deleted    :       1                                        |
+|       Components changed    :      22                                        |
+|       Slot property added   :      18                                        |
+|                                                                              |
+|   Total ECO changes reported:      57                                        |
+|------------------------------------------------------------------------------|

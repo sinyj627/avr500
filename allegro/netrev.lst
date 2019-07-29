@@ -2,9 +2,9 @@
 (                                                                     )
 (    Allegro Netrev Import Logic                                      )
 (                                                                     )
-(    Drawing          : AVRUSB500.brd                                 )
-(    Software Version : 16.6S034                                      )
-(    Date/Time        : Thu Jul 18 16:56:56 2019                      )
+(    Drawing          : AVRUSB500_2.brd                               )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Mon Jul 29 14:48:34 2019                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -18,16 +18,16 @@ Ripup symbols:               Always
 Missing symbol has error:    No
 DRC update:                  Yes
 Schematic directory:         'C:\USERS\USER\DESKTOP\WORK\AVRUSB500\allegro'
-Design Directory:            '.'
-Old design name:             'C:/USERS/USER/DESKTOP/WORK/AVRUSB500/allegro/AVRUSB500.brd'
-New design name:             'C:/USERS/USER/DESKTOP/WORK/AVRUSB500/allegro/AVRUSB500.brd'
+Design Directory:            'C:/Users/user/Desktop/work/avrusb500/allegro'
+Old design name:             'C:/Users/user/Desktop/work/avrusb500/allegro/AVRUSB500_2.brd'
+New design name:             'C:/Users/user/Desktop/work/avrusb500/allegro/AVRUSB500_2.brd'
 
-CmdLine: netrev.exe -y 1 -n -i C:\USERS\USER\DESKTOP\WORK\AVRUSB500\allegro C:\USERS\USER\DESKTOP\WORK\AVRUSB500\allegro\AVRUSB500.brd C:\USERS\USER\DESKTOP\WORK\AVRUSB500\allegro\AVRUSB500.brd
+CmdLine: netrev.exe -y 1 -i C:\USERS\USER\DESKTOP\WORK\AVRUSB500\allegro C:\Users\user\Desktop\work\avrusb500\allegro\AVRUSB500_2.brd C:\Users\user\Desktop\work\avrusb500\allegro\AVRUSB500_2.brd
 
 ------ Preparing to read pst files ------
 
 Starting to read C:/USERS/USER/DESKTOP/WORK/AVRUSB500/allegro/pstchip.dat 
-   Finished reading C:/USERS/USER/DESKTOP/WORK/AVRUSB500/allegro/pstchip.dat (00:00:00.05)
+   Finished reading C:/USERS/USER/DESKTOP/WORK/AVRUSB500/allegro/pstchip.dat (00:00:00.03)
 Starting to read C:/USERS/USER/DESKTOP/WORK/AVRUSB500/allegro/pstxprt.dat 
    Finished reading C:/USERS/USER/DESKTOP/WORK/AVRUSB500/allegro/pstxprt.dat (00:00:00.00)
 Starting to read C:/USERS/USER/DESKTOP/WORK/AVRUSB500/allegro/pstxnet.dat 
@@ -38,33 +38,33 @@ Starting to read C:/USERS/USER/DESKTOP/WORK/AVRUSB500/allegro/pstxnet.dat
 
 ------ Library Paths ------
 MODULEPATH =  . 
-           c:/Users/user/Desktop/Sample/pcb/modules 
+           C:/Cadence/SPB_17.2/share/local/pcb/modules 
 
 PSMPATH =  . 
            symbols 
            .. 
            ../symbols 
-           c:/Users/user/Desktop/Sample/pcb/symbols 
-           C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols 
-           C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/allegrolib/symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
            C:/Users/user/Desktop/work/pcb_lib/psm/ 
 
 PADPATH =  . 
            symbols 
            .. 
            ../symbols 
-           c:/Users/user/Desktop/Sample/pcb/padstacks 
-           C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols 
-           C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/allegrolib/symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
            C:/Users/user/Desktop/work/pcb_lib/pad/ 
 
 
 ------ Summary Statistics ------
 
 
-netrev run on Jul 18 16:56:56 2019
+netrev run on Jul 29 14:48:34 2019
    DESIGN NAME : 'AVRUSB500'
-   PACKAGING ON Apr 28 2014 16:45:46
+   PACKAGING ON Mar  2 2016 00:37:24
 
    COMPILE 'logic'
    CHECK_PIN_NAMES OFF
@@ -87,6 +87,6 @@ netrev run on Jul 18 16:56:56 2019
  No oversight detected
  No warning detected
 
-cpu time      0:00:46
+cpu time      0:00:38
 elapsed time  0:00:00
 

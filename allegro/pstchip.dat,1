@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Jul-18-2019 at 14:47:49}
+{ Using PSTWRITER 16.6.0 d001Jul-18-2019 at 16:56:56}
 primitive 'CAPACITOR NON-POL_CPCYL1D225LS1';
   pin
     '1':
@@ -270,7 +270,7 @@ primitive 'CON5_BLKCON100VHTM1SQSW1005_BBP';
     VALUE='bbpg_Bitbang';
   end_body;
 end_primitive;
-primitive 'CON4_7_USBMINIB_USBA_';
+primitive 'CON4_7_MICRO_USB_USBA_';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -290,7 +290,7 @@ primitive 'CON4_7_USBMINIB_USBA_';
   end_pin;
   body
     PART_NAME='CON4_7';
-    JEDEC_TYPE='USBMINIB';
+    JEDEC_TYPE='micro_usb';
     VALUE='USBA';
   end_body;
 end_primitive;

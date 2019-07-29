@@ -1,0 +1,10 @@
+\t (00:05:28) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:05:28)     Journal start - Thu Jul 18 12:18:48 2019
+\t (00:05:28)         Host=USER-PC User=user Pid=9500 CPUs=4
+\t (00:05:28) CmdLine= allegro.exe -p .
+\t (00:05:28) 
+\d (00:05:28) Design opened: C:/Users/user/Desktop/samples/avrusb500_r02/avrusb500_r02/Allegro/allegro/avrusb500.brd
+\i (00:05:28) generaledit 
+\i (00:05:32) new 
+\i (00:08:18) newdrawfillin "micro_usb.dra" "Package Symbol"
+\t (00:08:18)     Journal end - Thu Jul 18 12:21:37 2019
